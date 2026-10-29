@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T18:09:26.481Z",
+  "signed": true,
+  "publisher": {
+    "id": "owner",
+    "mode": "single-owner"
+  },
+  "platforms": [
+    {
+      "id": "x",
+      "url": "x.json",
+      "count": 82,
+      "version": 5,
+      "changed": true,
+      "enabled": true,
+      "reason": "",
+      "channel": "stable"
+    },
+    {
+      "id": "instagram",
+      "url": "instagram.json",
+      "count": 60,
+      "version": 5,
+      "changed": true,
+      "enabled": true,
+      "reason": "",
+      "channel": "stable"
+    },
+    {
+      "id": "facebook",
+      "url": "facebook.json",
+      "count": 63,
+      "version": 5,
+      "changed": true,
+      "enabled": true,
+      "reason": "",
+      "channel": "stable"
+    },
+    {
+      "id": "tiktok",
+      "url": "tiktok.json",
+      "count": 35,
+      "version": 5,
+      "changed": true,
+      "enabled": true,
+      "reason": "",
+      "channel": "stable"
+    },
+    {
+      "id": "youtube",
+      "url": "youtube.json",
+      "count": 54,
+      "version": 5,
+      "changed": true,
+      "enabled": true,
+      "reason": "",
+      "channel": "stable"
+    }
+  ]
+}

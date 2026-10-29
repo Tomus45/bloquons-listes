@@ -1,2 +1,5 @@
-# bloquons-listes
-Listes publiques de comptes pour l'extension Bloquons l'extrême droite.
+# Bloquons les listes
+
+Données publiques signées pour l’extension.
+
+Les listes sont accessibles dans [`blocklists/index.json`](blocklists/index.json).

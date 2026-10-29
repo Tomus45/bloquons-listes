@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "platform": "instagram",
+  "version": 5,
+  "updatedAt": "2026-10-29T18:09:26.481Z",
+  "accounts": [
+    {
+      "id": "instagram:herbertkickl",
+      "url": "https://www.instagram.com/herbertkickl/",
+      "label": "Herbert Kickl",
+      "category": "extreme-right",
+      "reason": "Président du FPÖ autrichien, parti de droite radicale populiste. Il défend la « remigration », un contrôle strict des frontières et un programme nationaliste opposé à l'immigration et à l'islam politique, tout en dénonçant les élites politiques traditionnelles.",
+      "source": "https://www.reuters.com/world/europe/austrias-polarising-far-right-leader-bids-become-chancellor-2025-01-06/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:vlaamsbelang",
+      "url": "https://www.instagram.com/vlaamsbelang/",
+      "label": "Vlaams Belang",
+      "category": "extreme-right",
+      "reason": "Parti flamand d'extrême droite prônant le séparatisme, la préférence nationale et une politique migratoire restrictive. Son discours identitaire insiste sur la préservation de la culture flamande et critique le multiculturalisme et l'islam.",
+      "source": "https://www.reuters.com/world/europe/belgium-set-new-government-after-months-negotiations-vrt-news-2025-01-31/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:jairmessiasbolsonaro",
+      "url": "https://www.instagram.com/jairmessiasbolsonaro/",
+      "label": "Jair Bolsonaro",
+      "category": "extreme-right",
+      "reason": "Ancien président brésilien régulièrement qualifié d'extrême droite. Son discours associe nationalisme, conservatisme religieux, soutien à une politique sécuritaire répressive et nostalgie exprimée pour la dictature militaire brésilienne ; il a également attaqué la fiabilité du système électoral.",
+      "source": "https://www.reuters.com/world/americas/why-some-young-brazilian-voters-are-abandoning-lula-2026-06-24/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:jordanbardella",
+      "url": "https://www.instagram.com/jordanbardella/",
+      "label": "Jordan Bardella",
+      "category": "extreme-right",
+      "reason": "Président du Rassemblement national, parti français classé à l'extrême droite. Il défend notamment la priorité nationale dans certaines prestations, une forte réduction de l'immigration, le renforcement des expulsions et un discours souverainiste sur les frontières et l'identité française.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:marine_lepen",
+      "url": "https://www.instagram.com/marine_lepen/",
+      "label": "Marine Le Pen",
+      "category": "extreme-right",
+      "reason": "Figure majeure du Rassemblement national, parti d'extrême droite issu du Front national. Elle défend la priorité nationale pour certains droits et prestations, une immigration restrictive et une conception souverainiste de l'identité et de la citoyenneté françaises.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:rassemblementnational_fr",
+      "url": "https://www.instagram.com/rassemblementnational_fr/",
+      "label": "Rassemblement National",
+      "category": "extreme-right",
+      "reason": "Parti français classé à l'extrême droite, héritier du Front national. Son programme combine préférence ou priorité nationale, restrictions migratoires, durcissement de la politique de sécurité et souverainisme, dans un discours opposant le peuple aux élites politiques.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:reconquete_officiel",
+      "url": "https://www.instagram.com/reconquete_officiel/",
+      "label": "Reconquête !",
+      "category": "extreme-right",
+      "reason": "Parti d'extrême droite fondé par Éric Zemmour. Son programme met au centre l'identité nationale, la lutte contre ce qu'il nomme le « grand remplacement », la réduction drastique de l'immigration et l'assimilation culturelle, dans une orientation national-conservatrice.",
+      "source": "https://www.senspo.fr/parti/fr-reconquete",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:ericzemmour_",
+      "url": "https://www.instagram.com/ericzemmour_/",
+      "label": "Éric Zemmour",
+      "category": "extreme-right",
+      "reason": "Fondateur de Reconquête, parti d'extrême droite. Il popularise la thèse du « grand remplacement », défend la « remigration » et des restrictions très importantes de l'immigration, et fait de l'identité culturelle et civilisationnelle française le cœur de son discours.",
+      "source": "https://www.senspo.fr/parti/fr-reconquete",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:afd.bund",
+      "url": "https://www.instagram.com/afd.bund/",
+      "label": "Alternative für Deutschland (AfD)",
+      "category": "extreme-right",
+      "reason": "Parti allemand de droite radicale populiste, régulièrement qualifié d'extrême droite. Il mène des campagnes nationalistes et anti-immigration, critique l'islam et le multiculturalisme et défend la « remigration » ; certaines de ses composantes ont été surveillées pour extrémisme par les autorités allemandes.",
+      "source": "https://www.reuters.com/world/europe/why-has-german-spy-agency-classified-far-right-afd-extremist-2025-05-02/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:legaofficial",
+      "url": "https://www.instagram.com/legaofficial/",
+      "label": "Lega per Salvini Premier",
+      "category": "extreme-right",
+      "reason": "Parti italien de droite radicale populiste conduit par Matteo Salvini. Son programme met l'accent sur la fermeture des frontières, la lutte contre l'immigration irrégulière, le souverainisme et la défense d'une identité nationale et culturelle italienne.",
+      "source": "https://www.reuters.com/world/italys-league-leader-salvini-secures-reappointment-ahead-polls-next-year-2026-10-25/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:matteosalviniofficial",
+      "url": "https://www.instagram.com/matteosalviniofficial/",
+      "label": "Matteo Salvini",
+      "category": "extreme-right",
+      "reason": "Dirigeant de la Lega, parti italien de droite radicale populiste. Il a fait des campagnes anti-immigration et de la fermeture des ports aux navires de secours des éléments centraux de son action, associés à un discours nationaliste, sécuritaire et eurosceptique.",
+      "source": "https://www.reuters.com/world/italys-league-leader-salvini-secures-reappointment-ahead-polls-next-year-2026-10-25/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:partidochega",
+      "url": "https://www.instagram.com/partidochega/",
+      "label": "CHEGA",
+      "category": "extreme-right",
+      "reason": "Parti portugais classé dans la droite radicale populiste. Son programme associe nationalisme, restrictions migratoires, conservatisme social et durcissement des sanctions pénales ; son discours oppose fréquemment les citoyens aux élites et aux institutions politiques.",
+      "source": "https://www.reuters.com/world/portugals-far-right-chega-party-may-have-hit-its-ceiling-presidential-election-2026-02-09/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:santi_abascal",
+      "url": "https://www.instagram.com/santi_abascal/",
+      "label": "Santiago Abascal / VOX",
+      "category": "extreme-right",
+      "reason": "Président de Vox, formation espagnole de droite radicale populiste. Il défend un nationalisme espagnol centralisateur, une politique migratoire restrictive, la suppression de certaines politiques d'égalité et une forte opposition aux autonomies régionales.",
+      "source": "https://www.reuters.com/world/far-right-surge-western-spain-shapes-outcome-regional-election-2025-12-22/",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "instagram:fvdnl",
+      "url": "https://www.instagram.com/fvdnl/",
+      "label": "Forum voor Democratie",
+      "category": "extreme-right",
+      "reason": "Parti néerlandais de droite radicale fondé par Thierry Baudet. Ses discours associent nationalisme identitaire, rejet de l'immigration et du multiculturalisme, références au « grand remplacement » et diffusion de théories complotistes.",
+      "source": "https://www.rug.nl/research/dnpp/politieke-partijen/fvd/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:alice.weidel",
+      "url": "https://www.instagram.com/alice.weidel/",
+      "label": "Alice Weidel",
+      "category": "political-public-account",
+      "reason": "Coprésidente de l'AfD allemande, parti classé dans la droite radicale et fréquemment qualifié d'extrême droite. Elle défend la fermeture accrue des frontières, des expulsions élargies, la critique du multiculturalisme et un programme nationaliste et eurosceptique.",
+      "source": "https://www.europawahl-bw.de/parteien-rechtspopulismus-eu",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:realdonaldtrump",
+      "url": "https://www.instagram.com/realdonaldtrump/",
+      "label": "Donald Trump",
+      "category": "political-public-account",
+      "reason": "Président américain et figure du mouvement MAGA. Il défend un nationalisme « America First », des expulsions massives de migrants et une politique frontalière répressive ; son discours populiste contre les élites et sa contestation des résultats de l'élection de 2020 sont largement documentés.",
+      "source": "https://www.ap.org/news-highlights/spotlights/2025/elon-musk-helped-trump-win-now-hes-looking-at-europe-and-many-politicians-are-alarmed/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:f_philippot",
+      "url": "https://www.instagram.com/f_philippot/",
+      "label": "Florian Philippot",
+      "category": "political-public-account",
+      "reason": "Ancien vice-président du Front national et fondateur des Patriotes. Son discours repose sur le souverainisme, la sortie des institutions européennes et la critique de l'immigration ; il a également pris des positions hostiles aux restrictions sanitaires durant la pandémie.",
+      "source": "https://www.publicsenat.fr/actualites/politique",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:giorgiameloni",
+      "url": "https://www.instagram.com/giorgiameloni/",
+      "label": "Giorgia Meloni",
+      "category": "political-public-account",
+      "reason": "Dirigeante de Fratelli d'Italia, parti national-conservateur issu de la tradition postfasciste italienne. Elle défend un programme restrictif sur l'immigration, la souveraineté nationale et des valeurs familiales traditionnelles.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:javiermilei",
+      "url": "https://www.instagram.com/javiermilei/",
+      "label": "Javier Milei",
+      "category": "political-public-account",
+      "reason": "Président argentin défendant un programme économique libertarien radical et des positions sociales conservatrices. Son discours anti-élite et ses alliances avec des formations de droite radicale à l'international conduisent certains chercheurs à le rapprocher de la droite radicale populiste.",
+      "source": "https://www.reuters.com/world/argentinas-milei-criticizes-leviathan-un-speech-pledges-agenda-freedom-2024-09-24/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:messiha.jean",
+      "url": "https://www.instagram.com/messiha.jean/",
+      "label": "Jean Messiha",
+      "category": "political-public-account",
+      "reason": "Ancien cadre du Rassemblement national et soutien de Reconquête. Son discours public met en avant le nationalisme identitaire, l'opposition à l'immigration et la critique du multiculturalisme, dans le prolongement de ses engagements auprès de ces deux formations.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:marionmarechal_",
+      "url": "https://www.instagram.com/marionmarechal_/",
+      "label": "Marion Maréchal",
+      "category": "political-public-account",
+      "reason": "Ancienne députée du Front national, passée par Reconquête et fondatrice d'Identité-Libertés. Elle défend un national-conservatisme identitaire, des restrictions migratoires, des valeurs sociales traditionnelles et le rapprochement des droites nationalistes.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:nigel_farage",
+      "url": "https://www.instagram.com/nigel_farage/",
+      "label": "Nigel Farage",
+      "category": "political-public-account",
+      "reason": "Dirigeant de Reform UK et figure historique de l'UKIP et du Brexit. Il défend le souverainisme britannique, des restrictions fortes à l'immigration et un discours populiste contre les élites ; plusieurs chercheurs situent son courant dans la droite radicale populiste.",
+      "source": "https://link.springer.com/article/10.1057/s41293-025-00287-4",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:nikolasferreiradm",
+      "url": "https://www.instagram.com/nikolasferreiradm/",
+      "label": "Nikolas Ferreira",
+      "category": "political-public-account",
+      "reason": "Député brésilien conservateur associé au bolsonarisme. Son activité politique porte notamment sur l'opposition aux politiques progressistes sur le genre, la défense de valeurs religieuses traditionnelles et le soutien à l'agenda politique de Jair Bolsonaro.",
+      "source": "https://www.reuters.com/world/americas/why-some-young-brazilian-voters-are-abandoning-lula-2026-06-24/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:sarahknafo1",
+      "url": "https://www.instagram.com/sarahknafo1/",
+      "label": "Sarah Knafo",
+      "category": "political-public-account",
+      "reason": "Responsable de Reconquête, parti d'extrême droite fondé par Éric Zemmour. Elle défend un programme souverainiste, des restrictions migratoires fortes et une conception national-conservatrice de l'identité française.",
+      "source": "https://www.senspo.fr/parti/fr-reconquete",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:tuckercarlson",
+      "url": "https://www.instagram.com/tuckercarlson/",
+      "label": "Tucker Carlson",
+      "category": "political-public-account",
+      "reason": "Commentateur américain national-conservateur, ancien présentateur de Fox News. Il a popularisé des récits proches de la théorie du « grand remplacement », dénoncé l'immigration comme une menace démographique et donné une tribune à des figures de l'extrême droite américaine.",
+      "source": "https://www.splcenter.org/resources/extremist-files/tucker-carlson/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:orbanviktor",
+      "url": "https://www.instagram.com/orbanviktor/",
+      "label": "Viktor Orbán",
+      "category": "political-public-account",
+      "reason": "Dirigeant du Fidesz hongrois, connu pour sa revendication d'une « démocratie illibérale ». Il défend un nationalisme conservateur, des politiques anti-immigration, la primauté de la souveraineté nationale et des mesures critiquées pour leur effet sur l'indépendance des institutions.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:officialbenshapiro",
+      "url": "https://www.instagram.com/officialbenshapiro/",
+      "label": "Ben Shapiro",
+      "category": "political-public-account",
+      "reason": "Commentateur conservateur américain et cofondateur du Daily Wire. Il défend des positions anti-avortement, le libre marché et des politiques migratoires restrictives, mais a aussi condamné publiquement l'alt-right et des figures du nationalisme blanc.",
+      "source": "https://www.newyorker.com/news/the-new-yorker-interview/ben-shapiro-on-trump-tucker-carlson-and-the-future-of-the-right",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:flaviobolsonaro",
+      "url": "https://www.instagram.com/flaviobolsonaro/",
+      "label": "Flávio Bolsonaro",
+      "category": "political-public-account",
+      "reason": "Homme politique brésilien, fils de Jair Bolsonaro, engagé dans le courant bolsonariste. Son positionnement associe soutien au programme sécuritaire et conservateur de ce mouvement, valeurs familiales traditionnelles et proximité avec la droite nationaliste brésilienne.",
+      "source": "https://www.reuters.com/world/americas/bolsonaros-leadership-claim-fails-win-support-allies-brazil-2026-10-29/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:georgesimion.oficial",
+      "url": "https://www.instagram.com/georgesimion.oficial/",
+      "label": "George Simion",
+      "category": "political-public-account",
+      "reason": "Dirigeant d'AUR, parti roumain régulièrement classé à l'extrême droite. Il défend un nationalisme roumain, le conservatisme religieux, des positions restrictives sur l'immigration et un discours souverainiste critique de certaines politiques européennes.",
+      "source": "https://www.reuters.com/world/europe/romanian-far-right-candidate-george-simion-wins-first-round-presidential-election-2025-05-04/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:tanguyjeanphilippe",
+      "url": "https://www.instagram.com/tanguyjeanphilippe/",
+      "label": "Jean-Philippe Tanguy",
+      "category": "political-public-account",
+      "reason": "Député et responsable du Rassemblement national, parti français classé à l'extrême droite. Il porte notamment la ligne souverainiste et économique du RN, qui associe priorité nationale, protectionnisme et restrictions de l'immigration.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:joseantoniokast",
+      "url": "https://www.instagram.com/joseantoniokast/",
+      "label": "José Antonio Kast",
+      "category": "political-public-account",
+      "reason": "Fondateur du Parti républicain chilien et figure de la droite radicale populiste latino-américaine selon des études universitaires. Il défend un nationalisme conservateur, un contrôle migratoire renforcé, la fermeté pénale et des valeurs familiales traditionnelles.",
+      "source": "https://icsoh.udp.cl/publicacion/the-arrival-of-the-populist-radical-right-in-chile-jose-antonio-kast-and-the-partido-republicano/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:julien.rochedy",
+      "url": "https://www.instagram.com/julien.rochedy/",
+      "label": "Julien Rochedy",
+      "category": "political-public-account",
+      "reason": "Essayiste et ancien dirigeant du Front national de la jeunesse. Il défend une pensée identitaire centrée sur l'héritage européen, un conservatisme social marqué et des positions critiques du féminisme et du multiculturalisme.",
+      "source": "https://www.leparisien.fr/recherche/?query=Julien%20Rochedy",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:hon.maximebernier",
+      "url": "https://www.instagram.com/hon.maximebernier/",
+      "label": "Maxime Bernier",
+      "category": "political-public-account",
+      "reason": "Fondateur du Parti populaire du Canada, formation national-populiste opposée à l'immigration de masse et au multiculturalisme officiel. Son discours combine libertarianisme économique, souverainisme et critiques des politiques d'identité et de diversité.",
+      "source": "https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/canada-still-the-exception-populist-communication-styles-among-canadian-federal-leaders-on-x-twitter/C75983E7335672B24A93A2FEE81AFDF5",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:sebastien_chenu",
+      "url": "https://www.instagram.com/sebastien_chenu/",
+      "label": "Sébastien Chenu",
+      "category": "political-public-account",
+      "reason": "Député et responsable du Rassemblement national, parti d'extrême droite. Il défend dans son action politique les propositions du RN relatives à la priorité nationale, à la réduction de l'immigration et au renforcement de la sécurité.",
+      "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:alice_cordier_",
+      "url": "https://www.instagram.com/alice_cordier_/",
+      "label": "Alice Cordier",
+      "category": "political-public-account",
+      "reason": "Militante française fondatrice du collectif féministe identitaire Némésis. Son discours associe dénonciation des violences faites aux femmes, mise en cause de l'immigration et opposition à l'islam politique, dans un cadre nationaliste identitaire.",
+      "source": "https://www.lemonde.fr/recherche/?keywords=Alice%20Cordier%20Nemesis",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:andre_ventura_oficial",
+      "url": "https://www.instagram.com/andre_ventura_oficial/",
+      "label": "André Ventura",
+      "category": "political-public-account",
+      "reason": "Fondateur et dirigeant de Chega, parti portugais classé à l'extrême droite ou dans la droite radicale populiste. Il défend un durcissement des politiques migratoires et pénales, un nationalisme conservateur et un discours populiste contre les élites politiques.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:konfederacja_",
+      "url": "https://www.instagram.com/konfederacja_/",
+      "label": "Konfederacja",
+      "category": "political-public-account",
+      "reason": "Coalition polonaise réunissant notamment des courants nationalistes, ultraconservateurs et libertariens. Une partie de ses composantes est classée à l'extrême droite, avec des discours anti-immigration, eurosceptiques et hostiles aux politiques progressistes.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:haraldvilimsky",
+      "url": "https://www.instagram.com/haraldvilimsky/",
+      "label": "Harald Vilimsky",
+      "category": "extreme-right",
+      "reason": "Cadre et eurodéputé du FPÖ autrichien, parti de droite radicale populiste. Sa ligne souverainiste critique l'intégration européenne et soutient un durcissement de l'immigration et de l'asile, dans le cadre du nationalisme identitaire défendu par son parti.",
+      "source": "https://www.reuters.com/world/europe/austrias-polarising-far-right-leader-bids-become-chancellor-2025-01-06/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:akesson.jimmie",
+      "url": "https://www.instagram.com/akesson.jimmie/",
+      "label": "Jimmie Åkesson",
+      "category": "extreme-right",
+      "reason": "Dirigeant des Démocrates de Suède, parti de droite radicale populiste aux origines historiques liées à des milieux néonazis. Il a contribué à sa normalisation électorale tout en défendant une réduction de l'immigration et une politique d'assimilation.",
+      "source": "https://www.lemonde.fr/international/article/2025/06/26/en-suede-l-extreme-droite-rend-public-un-livre-blanc-sur-son-passe-antisemite-et-neonazi_6616052_3210.html",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:vo_svoboda",
+      "url": "https://www.instagram.com/vo_svoboda/",
+      "label": "Union panukrainienne « Liberté »",
+      "category": "extreme-right",
+      "reason": "Svoboda, parti ukrainien ultranationaliste issu du Parti social-national d'Ukraine. Il est étudié parmi les formations d'extrême droite en raison de son héritage ethnonationaliste et de ses références à des mouvements nationalistes ukrainiens historiques.",
+      "source": "https://academic.oup.com/edited-volume/43520/chapter-abstract/364491986",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:b.netanyahu",
+      "url": "https://www.instagram.com/b.netanyahu/",
+      "label": "Benjamin Netanyahou",
+      "category": "extreme-right",
+      "reason": "Dirigeant du Likoud, parti nationaliste de droite israélien. Il défend une politique sécuritaire ferme et les implantations israéliennes en Cisjordanie et a gouverné avec des partis qualifiés d'extrême droite, notamment Otzma Yehudit et le Sionisme religieux.",
+      "source": "https://www.reuters.com/world/middle-east/key-people-israels-government-2024-05-16/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:ldprparty",
+      "url": "https://www.instagram.com/ldprparty/",
+      "label": "Parti libéral-démocrate de Russie",
+      "category": "extreme-right",
+      "reason": "LDPR, parti russe ultranationaliste malgré son nom. Historiquement dirigé par Vladimir Jirinovski, il s'est illustré par un discours impérialiste russe, hostile aux migrants et favorable à une politique étrangère expansionniste.",
+      "source": "https://www.britannica.com/topic/Liberal-Democratic-Party-of-Russia",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:milliyetcihareketpartisi",
+      "url": "https://www.instagram.com/milliyetcihareketpartisi/",
+      "label": "Parti d'action nationaliste",
+      "category": "extreme-right",
+      "reason": "MHP, parti turc ultranationaliste historiquement associé aux Loups gris. Il défend un nationalisme turc unitaire, un conservatisme social et des positions très fermes concernant le séparatisme kurde et la sécurité nationale.",
+      "source": "https://www.britannica.com/topic/Nationalist-Movement-Party",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:katz_israel",
+      "url": "https://www.instagram.com/katz_israel/",
+      "label": "Israel Katz",
+      "category": "extreme-right",
+      "reason": "Responsable du Likoud israélien, parti nationaliste de droite. Il défend l'expansion des colonies israéliennes en Cisjordanie, une politique sécuritaire dure et le maintien du contrôle israélien sur des territoires palestiniens.",
+      "source": "https://www.reuters.com/world/middle-east/who-is-israel-katz-new-israeli-defence-minister-2024-11-05/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:sverigedemokraterna",
+      "url": "https://www.instagram.com/sverigedemokraterna/",
+      "label": "Démocrates de Suède",
+      "category": "extreme-right",
+      "reason": "Parti suédois de droite radicale populiste, historiquement lié à des réseaux ultranationalistes et néonazis lors de sa fondation. Il défend une immigration restrictive, l'assimilation culturelle et une définition nationale de l'identité suédoise.",
+      "source": "https://www.lemonde.fr/international/article/2025/06/26/en-suede-l-extreme-droite-rend-public-un-livre-blanc-sur-son-passe-antisemite-et-neonazi_6616052_3210.html",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:perussuomalaiset.rp",
+      "url": "https://www.instagram.com/perussuomalaiset.rp/",
+      "label": "Parti des Finlandais",
+      "category": "extreme-right",
+      "reason": "Parti finlandais de droite radicale populiste. Il défend une politique migratoire restrictive, un nationalisme culturel, des critiques du multiculturalisme et un discours populiste opposant les citoyens ordinaires aux élites politiques.",
+      "source": "https://journals.sagepub.com/doi/10.1177/13540688241227526",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:ulkuocaklariekv",
+      "url": "https://www.instagram.com/ulkuocaklariekv/",
+      "label": "Loups gris",
+      "category": "extreme-right",
+      "reason": "Réseaux ultranationalistes turcs liés historiquement au mouvement du MHP. Ils promeuvent une identité turque ethnique et ont été associés à des actions violentes contre des opposants politiques et des minorités, selon différents rapports européens.",
+      "source": "https://www.britannica.com/topic/Grey-Wolves",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:douglaskmurray",
+      "url": "https://www.instagram.com/douglaskmurray/",
+      "label": "Douglas Murray",
+      "category": "extreme-right",
+      "reason": "Essayiste conservateur britannique, critique de l'immigration, de l'islam politique et du multiculturalisme. Ses ouvrages défendent une identité civilisationnelle occidentale ; plusieurs critiques rapprochent ses argumentaires des discours de la droite radicale, qualification qu'il conteste.",
+      "source": "https://www.currentaffairs.org/news/2022/09/taking-white-supremacist-talking-points-mainstream",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:fuerzapopular_",
+      "url": "https://www.instagram.com/fuerzapopular_/",
+      "label": "Force populaire",
+      "category": "extreme-right",
+      "reason": "Fuerza Popular, parti péruvien fujimoriste dirigé par Keiko Fujimori. Il défend le conservatisme social, le libéralisme économique et l'héritage politique d'Alberto Fujimori, marqué par des pratiques autoritaires ; son classement varie entre droite conservatrice et droite radicale populiste.",
+      "source": "https://journals.sagepub.com/doi/10.1177/00323217241301317",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:fratelliditalia",
+      "url": "https://www.instagram.com/fratelliditalia/",
+      "label": "Frères d'Italie",
+      "category": "extreme-right",
+      "reason": "Parti italien national-conservateur issu d'une tradition postfasciste, dirigé par Giorgia Meloni. Il défend un nationalisme souverainiste, le durcissement des règles migratoires et des positions conservatrices sur la famille et l'identité culturelle.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:sentedcruz",
+      "url": "https://www.instagram.com/sentedcruz/",
+      "label": "Ted Cruz",
+      "category": "extreme-right",
+      "reason": "Sénateur républicain américain associé au conservatisme religieux. Il défend des restrictions fortes sur l'avortement et l'immigration, le droit de porter des armes et une politique économique libérale, dans le courant conservateur du Parti républicain.",
+      "source": "https://www.britannica.com/biography/Ted-Cruz",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:tomio.cz",
+      "url": "https://www.instagram.com/tomio.cz/",
+      "label": "Tomio Okamura",
+      "category": "extreme-right",
+      "reason": "Dirigeant du parti tchèque SPD, classé à la droite radicale populiste. Il mène des campagnes anti-immigration et anti-islam, défend le souverainisme et critique l'Union européenne et les politiques d'accueil des réfugiés.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:pamelageller",
+      "url": "https://www.instagram.com/pamelageller/",
+      "label": "Pamela Geller",
+      "category": "extreme-right",
+      "reason": "Militante américaine cofondatrice de Stop Islamization of America et de l'American Freedom Defense Initiative. Ses campagnes contre l'islam et les mosquées et ses rapprochements avec des mouvements identitaires européens sont documentés par le SPLC et la Bridge Initiative.",
+      "source": "https://www.splcenter.org/resources/extremist-files/pamela-geller/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:umitozdag",
+      "url": "https://www.instagram.com/umitozdag/",
+      "label": "Ümit Özdağ",
+      "category": "extreme-right",
+      "reason": "Fondateur du Zafer Partisi turc, parti nationaliste laïc généralement classé dans la droite radicale populiste. Il mène des campagnes particulièrement hostiles aux réfugiés syriens et défend leur retour massif, au nom de l'identité et de la sécurité nationales.",
+      "source": "https://benjamins.com/catalog/jlp.24070.efe",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:vox_es",
+      "url": "https://www.instagram.com/vox_es/",
+      "label": "Vox",
+      "category": "extreme-right",
+      "reason": "Parti espagnol de droite radicale populiste. Il met en avant le nationalisme espagnol, l'opposition aux mouvements séparatistes, la restriction de l'immigration et des positions conservatrices sur le genre, la famille et les institutions.",
+      "source": "https://www.reuters.com/world/far-right-surge-western-spain-shapes-outcome-regional-election-2025-12-22/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:repmattgaetz",
+      "url": "https://www.instagram.com/repmattgaetz/",
+      "label": "Matt Gaetz",
+      "category": "extreme-right",
+      "reason": "Ancien représentant républicain américain allié du mouvement MAGA. Son activité politique s'est caractérisée par le populisme anti-élite, le soutien à Donald Trump et des positions conservatrices très fermes sur l'immigration et les institutions fédérales.",
+      "source": "https://www.reuters.com/world/us/cpac-generational-divide-over-republican-support-israel-2026-03-28/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:bjoern_hoecke_afd",
+      "url": "https://www.instagram.com/bjoern_hoecke_afd/",
+      "label": "Björn Höcke",
+      "category": "extreme-right",
+      "reason": "Figure de l'aile nationaliste radicale de l'AfD allemande. Ses discours identitaires, ses déclarations controversées sur la mémoire du nazisme et l'utilisation d'un slogan nazi interdit en Allemagne l'ont placé au cœur des débats sur l'extrémisme du parti.",
+      "source": "https://www.reuters.com/world/europe/why-has-german-spy-agency-classified-far-right-afd-extremist-2025-05-02/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:mi_hazank_mozgalom",
+      "url": "https://www.instagram.com/mi_hazank_mozgalom/",
+      "label": "Mouvement Notre patrie",
+      "category": "extreme-right",
+      "reason": "Mi Hazánk, formation hongroise ultranationaliste issue d'une scission du Jobbik. Elle défend une politique identitaire radicale, l'opposition à l'immigration, le conservatisme social et un discours hostile aux minorités et aux élites politiques.",
+      "source": "https://popu-list.org/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:realmarjoriegreene",
+      "url": "https://www.instagram.com/realmarjoriegreene/",
+      "label": "Marjorie Taylor Greene",
+      "category": "extreme-right",
+      "reason": "Ancienne représentante républicaine associée à l'aile radicale du mouvement MAGA. Elle a relayé dans le passé des théories liées à QAnon et pris des positions ultraconservatrices sur l'immigration et les questions de genre, avant de se distancier de QAnon.",
+      "source": "https://www.reuters.com/investigations/trump-20-maga-aligned-influencers-media-emerge-new-mainstream-2025-11-08/",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "instagram:restorebritain_",
+      "url": "https://www.instagram.com/restorebritain_/",
+      "label": "Restore Britain",
+      "category": "extreme-right",
+      "reason": "Mouvement politique britannique positionné sur une ligne nationaliste et anti-immigration. Sa communication met en avant les restrictions migratoires, l'identité nationale et la critique des principaux partis britanniques.",
+      "source": "https://www.reuters.com/world/uk/right-wing-feud-strengthens-andy-burnhams-bid-be-next-british-prime-minister-2026-06-15/",
+      "addedAt": "2026-10-29"
+    }
+  ]
+}
