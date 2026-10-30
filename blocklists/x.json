@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "platform": "x",
-  "version": 7,
-  "updatedAt": "2026-10-30T00:05:02.065Z",
+  "version": 8,
+  "updatedAt": "2026-10-30T00:20:48.275Z",
   "accounts": [
     {
       "id": "x:tomvangrieken",
@@ -741,22 +741,6 @@
       "reason": "Coalition polonaise Konfederacja, réunissant des sensibilités nationalistes, ultraconservatrices et libertariennes. Plusieurs de ses courants défendent des positions anti-immigration, eurosceptiques et conservatrices sur les questions sociales.",
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
-    },
-    {
-      "id": "x:test_sync_zz",
-      "url": "https://x.com/test_sync_zz",
-      "label": "TEST SYNCHRONISATION — À SUPPRIMER",
-      "category": "test",
-      "reason": "Entrée fictive destinée uniquement à vérifier la synchronisation. Ne pas bloquer ni signaler.",
-      "addedAt": "2026-10-30"
-    },
-    {
-      "id": "x:test_sync_02",
-      "url": "https://x.com/test_sync_02",
-      "label": "TEST SYNCHRONISATION 2",
-      "category": "test",
-      "reason": "Compte fictif pour tester la synchronisation. Ne pas bloquer ni signaler.",
-      "addedAt": "2026-10-30"
     }
   ]
 }
