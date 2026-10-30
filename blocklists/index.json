@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T18:09:26.481Z",
+  "generatedAt": "2026-10-30T00:17:40.639Z",
   "signed": true,
   "publisher": {
     "id": "owner",
@@ -10,9 +10,9 @@
     {
       "id": "x",
       "url": "x.json",
-      "count": 82,
-      "version": 5,
-      "changed": true,
+      "count": 84,
+      "version": 7,
+      "changed": false,
       "enabled": true,
       "reason": "",
       "channel": "stable"
@@ -22,7 +22,7 @@
       "url": "instagram.json",
       "count": 60,
       "version": 5,
-      "changed": true,
+      "changed": false,
       "enabled": true,
       "reason": "",
       "channel": "stable"
@@ -32,7 +32,7 @@
       "url": "facebook.json",
       "count": 63,
       "version": 5,
-      "changed": true,
+      "changed": false,
       "enabled": true,
       "reason": "",
       "channel": "stable"
@@ -42,7 +42,7 @@
       "url": "tiktok.json",
       "count": 35,
       "version": 5,
-      "changed": true,
+      "changed": false,
       "enabled": true,
       "reason": "",
       "channel": "stable"
@@ -52,7 +52,7 @@
       "url": "youtube.json",
       "count": 54,
       "version": 5,
-      "changed": true,
+      "changed": false,
       "enabled": true,
       "reason": "",
       "channel": "stable"

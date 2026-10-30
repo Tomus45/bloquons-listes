@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "alg": "ECDSA-P256-SHA256",
-  "signedAt": "2026-10-29T18:09:26.481Z",
-  "signature": "cd3sufey5IHUT5Z7e+be/NtEbSIEuNrq9tl21k4DRla6Junx6W48MHmxv+9iavs9ZW3P9LAp7cWScck9FTavaw=="
+  "signedAt": "2026-10-30T00:17:40.639Z",
+  "signature": "IUapqKS9AuIFbUrtQov3plvS+Lmo6OUL+FJnRQCMcpNgcrcDbhsil2yEijAZ53NTkXWF35r+a+qLtBhWM15TQA=="
 }
